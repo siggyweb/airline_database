@@ -11,7 +11,7 @@ connection = sqlite3.connect('airline')
 cursor = connection.cursor()
 
 #Flag for data refresh based on .csv files.
-refresh = True
+refresh = False
 
 
 #____________________________________________________________________________________________________
