@@ -10,7 +10,9 @@ Clone the repo to your local machine and use "pipenv install" to install the dep
 
 
 Key Operations
+
 The database application for the airline database has the following core features:
+
 • View the schema of the database to inform the user about the items they will need
 for transactions.
 
